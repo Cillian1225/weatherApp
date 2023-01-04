@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Box from "./component/Box";
+import BoxClass from "./component/BoxClass";
 import "./App.css";
 
 //1.박스 두개(타이틀 /사진정보/결과)
@@ -59,8 +59,8 @@ function App() {
   return (
     <div>
       <div className="main">
-        <Box title="You" item={userSelect} result={result} />
-        <Box title="Computer" item={computerSelect} result={result} />
+        <BoxClass title="You" item={userSelect} result={result} />
+        <BoxClass title="Computer" item={computerSelect} result={result} />
       </div>
 
       <div className="main">

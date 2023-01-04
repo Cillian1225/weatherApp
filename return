@@ -1,0 +1,45 @@
+[33mcommit 3e997d8cd6ca99d2a687b6e192963ffacb236a8a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Cillian Jung93 <86462224+Cillian1225@users.noreply.github.com>
+Date:   Wed Jan 4 13:01:50 2023 +0900
+
+    Add files
+
+ first-react/.gitignore                   |    23 [32m+[m
+ first-react/README.md                    |    70 [32m+[m
+ first-react/package-lock.json            | 29132 [32m++++++++++++++++++++++++++++[m
+ first-react/package.json                 |    38 [32m+[m
+ first-react/public/favicon.ico           |   Bin [31m0[m -> [32m3870[m bytes
+ first-react/public/index.html            |    43 [32m+[m
+ first-react/public/logo192.png           |   Bin [31m0[m -> [32m5347[m bytes
+ first-react/public/logo512.png           |   Bin [31m0[m -> [32m9664[m bytes
+ first-react/public/manifest.json         |    25 [32m+[m
+ first-react/public/robots.txt            |     3 [32m+[m
+ first-react/src/App.css                  |    17 [32m+[m
+ first-react/src/App.js                   |    22 [32m+[m
+ first-react/src/App.test.js              |     8 [32m+[m
+ first-react/src/components/Box.js        |    13 [32m+[m
+ first-react/src/index.css                |    13 [32m+[m
+ first-react/src/index.js                 |    17 [32m+[m
+ first-react/src/logo.svg                 |     1 [32m+[m
+ first-react/src/reportWebVitals.js       |    13 [32m+[m
+ first-react/src/setupTests.js            |     5 [32m+[m
+ rockpaperscissors/.gitignore             |    23 [32m+[m
+ rockpaperscissors/README.md              |    70 [32m+[m
+ rockpaperscissors/package-lock.json      | 29138 [32m+++++++++++++++++++++++++++++[m
+ rockpaperscissors/package.json           |    38 [32m+[m
+ rockpaperscissors/public/favicon.ico     |   Bin [31m0[m -> [32m3870[m bytes
+ rockpaperscissors/public/index.html      |    43 [32m+[m
+ rockpaperscissors/public/logo192.png     |   Bin [31m0[m -> [32m5347[m bytes
+ rockpaperscissors/public/logo512.png     |   Bin [31m0[m -> [32m9664[m bytes
+ rockpaperscissors/public/manifest.json   |    25 [32m+[m
+ rockpaperscissors/public/robots.txt      |     3 [32m+[m
+ rockpaperscissors/src/App.css            |    25 [32m+[m
+ rockpaperscissors/src/App.js             |    75 [32m+[m
+ rockpaperscissors/src/App.test.js        |     8 [32m+[m
+ rockpaperscissors/src/component/Box.js   |    25 [32m+[m
+ rockpaperscissors/src/index.css          |    13 [32m+[m
+ rockpaperscissors/src/index.js           |    17 [32m+[m
+ rockpaperscissors/src/logo.svg           |     1 [32m+[m
+ rockpaperscissors/src/reportWebVitals.js |    13 [32m+[m
+ rockpaperscissors/src/setupTests.js      |     5 [32m+[m
+ 38 files changed, 58965 insertions(+)
